@@ -1,4 +1,4 @@
-# BioSync-Main-Code---Hand-tracking-Motors-and-Servo
+# BioSync Old Prototype
 Continuation of my Documentation Repo (Science Fair Project 2025) for those who want the code to run themselves
 # OverView
 This is the code i used to make the first finished Prototype of my science fair Project, it uses Python and the Arduino IDE, working 
